@@ -1,0 +1,24 @@
+{
+  "name": "bitside-codingchallenge",
+  "version": "1.0.0",
+  "description": "bitside-CodingChallenge: Shopping-Basket",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JOHAE96/bitside-CodingChallenge.git"
+  },
+  "author": "Johannes Häuser",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JOHAE96/bitside-CodingChallenge/issues"
+  },
+  "homepage": "https://github.com/JOHAE96/bitside-CodingChallenge#readme",
+  "dependencies": {
+    "jest": "^27.3.1",
+    "nodemon": "^2.0.14"
+  }
+}
